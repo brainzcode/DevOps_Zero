@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#### User Defined Variables
+
 var1=10
 
 var2=-57
@@ -27,3 +29,4 @@ value1=10
 value2=$value1
 
 echo "The resulting value is $value2"
+
