@@ -125,7 +125,7 @@ esac
 
 
 
-filename="example.txt"
+filename="shell_scripting.sh"
 
 if [ -e "$filename" ]; then
     echo "File '$filename' exists."
